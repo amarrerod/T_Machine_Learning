@@ -1,0 +1,4 @@
+BeautifulSoup4
+python-coveralls
+coveralls
+nose
